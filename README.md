@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome 👋 and thanks for looking - Nich
 
 <!--
 **ntkunz/ntkunz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
