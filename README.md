@@ -1,9 +1,9 @@
 ### Welcome 👋 and thanks for looking
 
 
-I am currently working on finishing my Helping Neighbors project, a full stack application to connect users based off of location. 
+I am currently working on finishing my Helping Neighbors project, a full stack application to connect users based off of location with the objective of bartering skills and building communities. 
 
-Please click through those and feel free to reach out to me at mrnicholaskunz at gmail.com - Nich
+Feel free to reach out to me at mrnicholaskunz at gmail.com - Nich
 
 ![Helping Neighbors new users page](./images/hn-screenshot-signup.png)
 
