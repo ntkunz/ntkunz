@@ -15,7 +15,7 @@ Previous project: InStock, a full stack warehouse inventory application built in
 
 ![InStock Inventory Items tablet page](./images/instock-screenshot-inventory-tablet.png)
 
-I am looking for meaningful project to get involved in so please reach out if you have an inkling to. 
+I am looking for meaningful projects to get involved in so please reach out if you have an inkling to. 
 
 📫 mrnicholaskunz@gmail.com
 
