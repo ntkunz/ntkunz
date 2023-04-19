@@ -9,7 +9,7 @@ I am urrently finishing my Helping Neighbors project, a full stack application t
 
 ![Helping Neighbors new users page](./images/hn-screenshot-neighbors.png)
 
-Previous project: InStock, a full stack warehouse inventory application built in collaboration with other members of my BrainStation cohort using a group agile development style. 
+Previous project: InStock, a full stack warehouse inventory application built in collaboration with other members of my BrainStation cohort using a cooperative agile development style and implementing full CRUD functionality. 
 
 >Built with React, Express, MySQL, Axios, and SASS.
 
