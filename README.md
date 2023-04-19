@@ -1,7 +1,7 @@
 ### Welcome 👋
 
 
-I am urrently finishing my Helping Neighbors project, a full stack application to connect users based off of location with the objective of bartering skills and building communities. 
+I am currently finishing my Helping Neighbors project, a full stack application to connect users based off of location with the objective of bartering skills and building communities. 
 
 >It utilizes MySQL spatial relations that utilizes the Knex.js node package for safer querying. 
 
