@@ -3,14 +3,16 @@
 
 I am currently finishing my [Helping Neighbors](https://www.github.com/ntkunz/helping_neighbors) project, a full stack application to connect users based off of location with the objective of bartering skills and building communities. 
 
->It utilizes MySQL spatial relations and the Knex.js node package for safer querying. 
+>It utilizes MySQL spatial relations and the Knex.js node package for table creation and seeding. 
 
->Built with React, SASS, Axios, React-Router-Dom, Multer, and Express.  
+>Built with React, SASS, Axios, React-Router-Dom, Multer, and Express.
+
+Finalizing sanitization of all input and output on both frontend and backend at the moment. After that I will setup secure auth instead of a generic local storage for each user, and then the site will be released into the wild. 
 
 ![screencast of helping neighbors site](https://user-images.githubusercontent.com/33107555/233460679-af674c66-0b78-4ad7-a2e3-a20fb94c11af.gif)
 
 
-Previous Project: [InStock](https://github.com/ntkunz/instock-client), a full stack warehouse inventory application built in collaboration with other members of my BrainStation cohort using a cooperative agile development style and implementing full CRUD functionality. 
+Previous Project: [InStock](https://github.com/ntkunz/instock-client), a full stack warehouse inventory application built in collaboration with 3 other members of my BrainStation cohort using a cooperative agile development style and implementing full CRUD functionality. 
 
 >Built with React, Express, MySQL, Axios, and SASS.
 
