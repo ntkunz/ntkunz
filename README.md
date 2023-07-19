@@ -1,7 +1,8 @@
 ### Welcome 👋
 
 [Helping Neighbors](https://www.helping-neighbors.nicholaskunz.com) - :couple: :hammer: :dizzy:
-(tip: if making an account and you ahve no neighbors using the app, you can edit your address to within 1/2 kilometer of 455 Granville St, Vancouver, BC to see some neighbors).
+
+*(tip: if making an account and you have no neighbors using the app, edit your address to within 1/2 kilometer of *455 Granville St, Vancouver, BC* to see some neighbors).*
 
 A full stack application to connect neighbors under the premise of bartering their time and/or skills. 
 
