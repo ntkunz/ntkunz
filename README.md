@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-[Helping Neighbors](https://www.helping-neighbors.nicholaskunz.com) - :couple: :hammer: :dizzy:
+[Helping Neighbors](https://helping-neighbors.nicholaskunz.com) - :couple: :hammer: :dizzy:
 
 *(tip: if making an account and you have no neighbors using the app, edit your address to within 1/2 kilometer of *455 Granville St, Vancouver, BC* to see some neighbors).*
 
