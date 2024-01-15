@@ -11,7 +11,10 @@ I'm Nicholas Kunz, a builder of things digital and tangible, including full-stac
 ### Helping Neighbors :handshake:
 
 🌐 **Visit the Live Site:** [Helping Neighbors](https://helping-neighbors.nicholaskunz.com) - :couple: :hammer: :dizzy:
-(Frontend hosted on Netlify, Server and database hosted on Heroku)
+
+Frontend hosted on Netlify, Server and database hosted on Heroku
+
+Built with React, SASS, Socket.io, Node/Express, MySQL, Knex
 
 Repos: 
 [![GitHub Repo](https://img.shields.io/badge/Repo-Frontend-blue)](https://www.github.com/ntkunz/helping_neighbors)
@@ -29,7 +32,7 @@ View the work in progress [here]([https://riseup.nicholaskunz.com/](https://rise
 
 ## What I'm currently focused on
 
-I'm eager to learn, grow, and have fun, particularly in the realm of JavaScript development and software engineering more broadly. If you have any ideas you'd like input on or just want to chat about coding, analog photography, art gallery operating, skateboarding, machining, woodworking, or anything else, feel free to reach out!
+I'm eager to learn, grow, and have fun, particularly in the realm of JavaScript development and software engineering more broadly. If you have any ideas you'd like input on or just want to chat about coding, analog photography, art gallery operating, skateboarding, machining, woodworking, or anything else, I'd love to connect!
 
 ## Contact Me
 
